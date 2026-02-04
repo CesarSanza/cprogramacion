@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\bin\Debug\net10.0\Programa si es para o impar.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\bin\Debug\net10.0\Programa si es para o impar.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\bin\Debug\net10.0\Programa si es para o impar.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\bin\Debug\net10.0\Programa si es para o impar.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\bin\Debug\net10.0\Programa si es para o impar.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\Programa si es para o impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\Programa si es para o impar.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\Programa si es para o impar.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\Programa si es para o impar.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\Programa si es para o impar.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\refint\Programa si es para o impar.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\Programa si es para o impar.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\Programa si es para o impar.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\cprogramacion\Programa si es para o impar\Programa si es para o impar\obj\Debug\net10.0\ref\Programa si es para o impar.dll
