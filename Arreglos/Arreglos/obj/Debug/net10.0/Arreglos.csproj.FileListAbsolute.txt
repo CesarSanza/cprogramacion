@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\bin\Debug\net10.0\Arreglos.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\bin\Debug\net10.0\Arreglos.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\bin\Debug\net10.0\Arreglos.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\bin\Debug\net10.0\Arreglos.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\bin\Debug\net10.0\Arreglos.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\Arreglos.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\Arreglos.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\refint\Arreglos.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\Arreglos.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\Arreglos.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Arreglos\Arreglos\obj\Debug\net10.0\ref\Arreglos.dll

@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\Tarea de Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\Tarea de Arreglos.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\Tarea de Arreglos.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\Tarea de Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\bin\Debug\net10.0\Tarea de Arreglos.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\bin\Debug\net10.0\Tarea de Arreglos.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\bin\Debug\net10.0\Tarea de Arreglos.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\bin\Debug\net10.0\Tarea de Arreglos.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\bin\Debug\net10.0\Tarea de Arreglos.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\Tarea de Arreglos.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\refint\Tarea de Arreglos.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\Tarea de Arreglos.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\Tarea de Arreglos.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Arreglos\Tarea de Arreglos\obj\Debug\net10.0\ref\Tarea de Arreglos.dll

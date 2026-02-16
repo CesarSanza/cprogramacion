@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\bin\Debug\net10.0\Tarea de Matrices.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\bin\Debug\net10.0\Tarea de Matrices.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\bin\Debug\net10.0\Tarea de Matrices.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\bin\Debug\net10.0\Tarea de Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\bin\Debug\net10.0\Tarea de Matrices.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\Tarea de Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\Tarea de Matrices.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\Tarea de Matrices.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\Tarea de Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\Tarea de Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\refint\Tarea de Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\Tarea de Matrices.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\Tarea de Matrices.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tarea de Matrices\Tarea de Matrices\obj\Debug\net10.0\ref\Tarea de Matrices.dll

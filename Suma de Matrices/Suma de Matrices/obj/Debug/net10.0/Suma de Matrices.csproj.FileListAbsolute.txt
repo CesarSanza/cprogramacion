@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\bin\Debug\net10.0\Suma de Matrices.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\bin\Debug\net10.0\Suma de Matrices.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\bin\Debug\net10.0\Suma de Matrices.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\bin\Debug\net10.0\Suma de Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\bin\Debug\net10.0\Suma de Matrices.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\Suma de Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\Suma de Matrices.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\Suma de Matrices.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\Suma de Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\Suma de Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\refint\Suma de Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\Suma de Matrices.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\Suma de Matrices.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Suma de Matrices\Suma de Matrices\obj\Debug\net10.0\ref\Suma de Matrices.dll

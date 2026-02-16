@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\bin\Debug\net10.0\Matrices.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\bin\Debug\net10.0\Matrices.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\bin\Debug\net10.0\Matrices.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\bin\Debug\net10.0\Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\bin\Debug\net10.0\Matrices.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\Matrices.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\Matrices.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\refint\Matrices.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\Matrices.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\Matrices.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Matrices\Matrices\obj\Debug\net10.0\ref\Matrices.dll
