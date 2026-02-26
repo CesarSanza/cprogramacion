@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\bin\Debug\net10.0\Laboratorio1.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\bin\Debug\net10.0\Laboratorio1.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\bin\Debug\net10.0\Laboratorio1.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\bin\Debug\net10.0\Laboratorio1.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\bin\Debug\net10.0\Laboratorio1.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\Laboratorio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\Laboratorio1.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\Laboratorio1.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\Laboratorio1.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\refint\Laboratorio1.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\Laboratorio1.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\Laboratorio1.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Laboratorio1\Laboratorio1\obj\Debug\net10.0\ref\Laboratorio1.dll

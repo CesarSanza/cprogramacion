@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\bin\Debug\net10.0\BankLab1.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\bin\Debug\net10.0\BankLab1.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\bin\Debug\net10.0\BankLab1.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\bin\Debug\net10.0\BankLab1.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\bin\Debug\net10.0\BankLab1.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\BankLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\BankLab1.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\BankLab1.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\BankLab1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\BankLab1.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\refint\BankLab1.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\BankLab1.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\BankLab1.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\BankLab1\BankLab1\obj\Debug\net10.0\ref\BankLab1.dll

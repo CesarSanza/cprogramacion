@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Book\\Book\\Book.csproj": {}
+    "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\Book\\Book\\Book.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Book\\Book\\Book.csproj": {
+    "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\Book\\Book\\Book.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Book\\Book\\Book.csproj",
+        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\Book\\Book\\Book.csproj",
         "projectName": "Book",
-        "projectPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Book\\Book\\Book.csproj",
+        "projectPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\Book\\Book\\Book.csproj",
         "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Book\\Book\\obj\\",
+        "outputPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\Book\\Book\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config"
