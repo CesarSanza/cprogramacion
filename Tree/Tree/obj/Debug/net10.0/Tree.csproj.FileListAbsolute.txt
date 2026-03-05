@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\bin\Debug\net10.0\Tree.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\bin\Debug\net10.0\Tree.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\bin\Debug\net10.0\Tree.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\bin\Debug\net10.0\Tree.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\bin\Debug\net10.0\Tree.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\Tree.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\Tree.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\Tree.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\refint\Tree.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\Tree.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\Tree.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Tree\Tree\obj\Debug\net10.0\ref\Tree.dll
