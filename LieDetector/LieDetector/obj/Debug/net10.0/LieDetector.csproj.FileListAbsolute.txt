@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\bin\Debug\net10.0\LieDetector.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\bin\Debug\net10.0\LieDetector.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\bin\Debug\net10.0\LieDetector.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\bin\Debug\net10.0\LieDetector.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\bin\Debug\net10.0\LieDetector.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\LieDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\LieDetector.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\LieDetector.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\LieDetector.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\LieDetector.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\refint\LieDetector.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\LieDetector.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\LieDetector.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LieDetector\LieDetector\obj\Debug\net10.0\ref\LieDetector.dll

@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\bin\Debug\net10.0\HauntedHouse.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\bin\Debug\net10.0\HauntedHouse.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\bin\Debug\net10.0\HauntedHouse.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\bin\Debug\net10.0\HauntedHouse.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\bin\Debug\net10.0\HauntedHouse.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\HauntedHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\HauntedHouse.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\HauntedHouse.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\HauntedHouse.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\HauntedHouse.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\refint\HauntedHouse.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\HauntedHouse.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\HauntedHouse.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\HauntedHouse\HauntedHouse\obj\Debug\net10.0\ref\HauntedHouse.dll

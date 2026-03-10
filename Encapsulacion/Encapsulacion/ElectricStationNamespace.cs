@@ -48,3 +48,4 @@ public class ElectricStation
         charge = newCharge;
     }
 }
+

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Encapsulacion\\Encapsulacion\\Encapsulacion.csproj",
+      "projectUniqueName": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\Encapsulacion\\Encapsulacion\\Encapsulacion.csproj",
       "projectName": "Encapsulacion",
-      "projectPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Encapsulacion\\Encapsulacion\\Encapsulacion.csproj",
+      "projectPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\Encapsulacion\\Encapsulacion\\Encapsulacion.csproj",
       "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Encapsulacion\\Encapsulacion\\obj\\",
+      "outputPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\Encapsulacion\\Encapsulacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config"

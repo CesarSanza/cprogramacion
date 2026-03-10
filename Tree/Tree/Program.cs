@@ -2,10 +2,9 @@
 
 Tree tree = new Tree();
 
-Console.WriteLine("=== Tree Simulator ===");
 Console.WriteLine("Commands: bloom | dry | exit");
 Console.WriteLine("Size: " + tree.size + " | Foliage: " + tree.foliage);
-Console.WriteLine("----------------------");
+
 
 while (true)
 {
