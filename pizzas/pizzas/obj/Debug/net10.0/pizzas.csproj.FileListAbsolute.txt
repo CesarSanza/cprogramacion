@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\bin\Debug\net10.0\pizzas.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\bin\Debug\net10.0\pizzas.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\bin\Debug\net10.0\pizzas.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\bin\Debug\net10.0\pizzas.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\bin\Debug\net10.0\pizzas.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\pizzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\pizzas.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\pizzas.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\pizzas.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\pizzas.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\refint\pizzas.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\pizzas.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\pizzas.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\pizzas\pizzas\obj\Debug\net10.0\ref\pizzas.dll

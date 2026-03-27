@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\bin\Debug\net10.0\Musify.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\bin\Debug\net10.0\Musify.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\bin\Debug\net10.0\Musify.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\bin\Debug\net10.0\Musify.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\bin\Debug\net10.0\Musify.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\Musify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\Musify.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\Musify.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\Musify.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\Musify.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\refint\Musify.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\Musify.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\Musify.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Musify\Musify\obj\Debug\net10.0\ref\Musify.dll
