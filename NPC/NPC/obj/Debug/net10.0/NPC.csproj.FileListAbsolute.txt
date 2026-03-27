@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\bin\Debug\net10.0\NPC.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\bin\Debug\net10.0\NPC.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\bin\Debug\net10.0\NPC.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\bin\Debug\net10.0\NPC.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\bin\Debug\net10.0\NPC.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\NPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\NPC.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\NPC.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\NPC.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\NPC.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\refint\NPC.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\NPC.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\NPC.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\NPC\NPC\obj\Debug\net10.0\ref\NPC.dll

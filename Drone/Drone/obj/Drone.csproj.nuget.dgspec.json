@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\LieDetector\\LieDetector\\LieDetector.csproj": {}
+    "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Drone\\Drone\\Drone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\LieDetector\\LieDetector\\LieDetector.csproj": {
+    "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Drone\\Drone\\Drone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\LieDetector\\LieDetector\\LieDetector.csproj",
-        "projectName": "LieDetector",
-        "projectPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\LieDetector\\LieDetector\\LieDetector.csproj",
+        "projectUniqueName": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Drone\\Drone\\Drone.csproj",
+        "projectName": "Drone",
+        "projectPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Drone\\Drone\\Drone.csproj",
         "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\cprogramacion\\LieDetector\\LieDetector\\obj\\",
+        "outputPath": "C:\\Users\\Cesar\\Documents\\Programacion\\cprogramacion\\Drone\\Drone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config"
