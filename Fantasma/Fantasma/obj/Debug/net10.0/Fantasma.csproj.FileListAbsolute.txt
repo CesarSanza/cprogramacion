@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\bin\Debug\net10.0\Fantasma.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\bin\Debug\net10.0\Fantasma.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\bin\Debug\net10.0\Fantasma.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\bin\Debug\net10.0\Fantasma.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\bin\Debug\net10.0\Fantasma.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\Fantasma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\Fantasma.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\Fantasma.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\Fantasma.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\Fantasma.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\refint\Fantasma.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\Fantasma.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\Fantasma.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Fantasma\Fantasma\obj\Debug\net10.0\ref\Fantasma.dll
