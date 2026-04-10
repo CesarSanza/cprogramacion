@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\bin\Debug\net10.0\LabHerencia2.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\bin\Debug\net10.0\LabHerencia2.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\bin\Debug\net10.0\LabHerencia2.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\bin\Debug\net10.0\LabHerencia2.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\bin\Debug\net10.0\LabHerencia2.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\LabHerencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\LabHerencia2.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\LabHerencia2.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\LabHerencia2.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\LabHerencia2.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\refint\LabHerencia2.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\LabHerencia2.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\LabHerencia2.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\LabHerencia2\LabHerencia2\obj\Debug\net10.0\ref\LabHerencia2.dll

@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\bin\Debug\net10.0\person.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\bin\Debug\net10.0\person.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\bin\Debug\net10.0\person.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\bin\Debug\net10.0\person.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\bin\Debug\net10.0\person.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\person.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\person.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\person.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\person.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\refint\person.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\person.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\person.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\person\person\obj\Debug\net10.0\ref\person.dll
