@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\bin\Debug\net10.0\ShapeApp.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\bin\Debug\net10.0\ShapeApp.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\bin\Debug\net10.0\ShapeApp.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\bin\Debug\net10.0\ShapeApp.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\bin\Debug\net10.0\ShapeApp.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\ShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\ShapeApp.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\ShapeApp.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\ShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\ShapeApp.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\refint\ShapeApp.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\ShapeApp.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\ShapeApp.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\ShapeApp\ShapeApp\obj\Debug\net10.0\ref\ShapeApp.dll

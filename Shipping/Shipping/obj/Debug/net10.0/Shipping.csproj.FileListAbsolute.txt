@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\bin\Debug\net10.0\Shipping.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\bin\Debug\net10.0\Shipping.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\bin\Debug\net10.0\Shipping.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\bin\Debug\net10.0\Shipping.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\bin\Debug\net10.0\Shipping.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\Shipping.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\Shipping.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\Shipping.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\refint\Shipping.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\Shipping.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\Shipping.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\Shipping\Shipping\obj\Debug\net10.0\ref\Shipping.dll
