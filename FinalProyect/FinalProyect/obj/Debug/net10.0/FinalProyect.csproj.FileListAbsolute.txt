@@ -1,0 +1,14 @@
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\bin\Debug\net10.0\FinalProyect.exe
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\bin\Debug\net10.0\FinalProyect.deps.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\bin\Debug\net10.0\FinalProyect.runtimeconfig.json
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\bin\Debug\net10.0\FinalProyect.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\bin\Debug\net10.0\FinalProyect.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\FinalProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\FinalProyect.AssemblyInfoInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\FinalProyect.AssemblyInfo.cs
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\FinalProyect.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\FinalProyect.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\refint\FinalProyect.dll
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\FinalProyect.pdb
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\FinalProyect.genruntimeconfig.cache
+C:\Users\Cesar\Documents\Programacion\cprogramacion\FinalProyect\FinalProyect\obj\Debug\net10.0\ref\FinalProyect.dll

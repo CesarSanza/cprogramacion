@@ -1,0 +1,28 @@
+=== SAFECRACKER — Registro de sesión ===
+Inicio: 2026-05-04 12:57:12
+=========================================
+[12:57:18] El Perezoso | Intento: 7 | ¡Exacto! | Éxito: True
+[12:57:19] Cerradura 'El Perezoso' ABIERTA.
+[12:57:25] El Paranoico | Intento: 21 | Tibio | Éxito: False
+[12:57:33] El Paranoico | Intento: 20 | Tibio | Éxito: False
+[12:57:39] El Paranoico | Intento: 4 | Muy caliente | Éxito: False
+[12:57:43] El Paranoico | Intento: 2 | Muy caliente | Éxito: False
+[12:57:50] El Paranoico | Intento: 1 | Tibio | Éxito: False
+[12:57:55] El Paranoico | Intento: 3 | Muy caliente | Éxito: False
+[12:58:06] Pista solicitada para 'El Paranoico'.
+[12:58:12] El Paranoico | Intento: 7 | Muy caliente | Éxito: False
+[12:58:18] Fuerza bruta usada en 'El Paranoico'.
+[12:58:25] El Descuidado | Intento: 4 | Frío | Éxito: False
+[12:58:32] Pista solicitada para 'El Descuidado'.
+[12:58:45] El Descuidado | Intento: 47 | ¡Exacto! | Éxito: True
+[12:58:47] Cerradura 'El Descuidado' ABIERTA.
+
+
+Fin: 2026-05-04 12:58:47
+Duración: 1.6 minutos
+Resultado: CAJA ABIERTA
+  → El Perezoso: ABIERTA | Intentos: 1
+  → El Paranoico: ABIERTA | Intentos: 57
+  → El Descuidado: ABIERTA | Intentos: 2
+
+
